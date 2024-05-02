@@ -1,2 +1,2 @@
 # 2024-2b-site-mercado
-uma empresa 
+um mercado bom e barato

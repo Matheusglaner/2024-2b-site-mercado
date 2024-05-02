@@ -1,0 +1,13 @@
+*{
+   margin: 0;
+   padding: 0;
+
+}
+ body{
+    background: blue ;
+    color: black;
+ } 
+ :root{
+   --azulescuro: #07364B;
+   --preto: #030B11;
+ }
