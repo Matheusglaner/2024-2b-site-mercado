@@ -151,19 +151,7 @@ align-items: center;
 justify-content: center;
 margin: 0 7em;
 color: var(--verde-claro);
-}
-.propaganda_imagem{
-width: 100%;
-}
-.propaganda_titulo{
-font-family: var(--texto-titulo);
-font-size: 48px;
-color: var(--branco);
-text-shadow:3px 3px 5px var(--verde-claro);
-}
-.propaganda_titulo:hover{
-font-size: 40px;
-transition: 0.7s;
+
 }
 .propaganda_texto{
 font-size: 24px;
@@ -180,8 +168,7 @@ text-shadow: 3px 3px 5px var(--verde-claro);
 --azul: #0058fb;
 --branco: #ffffff;
 --verde-claro: #9EF01A;
---verde: #347a13;
---preto: #000000;
+ --preto: #000000;
 --texto-corpo: "Sedan SC", serif;
 --texto-titulo: "Poetsen One", sans-serif;
 }
@@ -216,6 +203,7 @@ padding: 1mm;
 }
 
 .cabecalho-nav__link:hover {
+
 color: var(--verde);
 font-size: 35px;
 transition: 0.7s;
