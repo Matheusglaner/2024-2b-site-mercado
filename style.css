@@ -153,16 +153,17 @@ margin: 0 7em;
 color: var(--verde-claro);
 
 }
-.propaganda_texto{
+.propaganda_te
+--Roxo-claro: xto{
 font-size: 24px;
 color: var(--branco);
 text-shadow: 3px 3px 5px var(--verde-claro);
 }
 
 :root {
---Roxo-claro: #9232db;
+--Roxo-claro: #455891;
 --azul-claro: #3399d4;
---azul-escuro: #10002B;
+--azul-escuro: #050863;
 --violeta: #5A189A;
 --azul-ciano: #0c5479;
 --azul: #0058fb;
@@ -190,6 +191,7 @@ width: 10%;
 border-radius: 100%;
 }
 
+--Roxo-claro: 
 .cabecalho-nav__link {   
 text-decoration: none;
 font-family: var(--texto-titulo);
@@ -209,9 +211,7 @@ font-size: 35px;
 transition: 0.7s;
 }
 
-
-.principal-capa {
-display: flex;
+--Roxo-claro: 
 justify-content: space-between;
 align-items: center;
 gap: 24px;
@@ -219,6 +219,7 @@ background-image: url(img/fundo2.jpg);
 background-size: 100%;
 background-repeat: no-repeat;
 }
+--Roxo-claro: 
 
 .principal-capa__conteudo {
 display: flex;
@@ -239,7 +240,8 @@ margin-top: 24px;
 
 }
 
-.principal-capa__combotao {
+.principal-cap
+--Roxo-claro: a__combotao {
 display: flex;
 flex-direction: column;
 align-items: flex-start
@@ -267,23 +269,7 @@ font-size: 20px;
 }
 .botao_secundario {
 color: var(--branco);
-border-radius: 60px;
-padding: 1em;
-margin-top: 2em;
-background-color: transparent;
-text-decoration: none;
-text-transform: uppercase;
-font-family: var(--texto-titulo);
-border: 2px solid var(--preto);
-}
-.botao_secundario:hover {
-background-color: transparent;
-transition: 0.7s;
-font-size: 20px;verde-claro);
-}
-
-}
-.propaganda{
+borde aganda{
 display: grid;
 grid-template-columns: 1fr 1fr;
 text-align: center;
@@ -297,6 +283,7 @@ color: var(--verde-claro);verde-claro);
 .propaganda_imagem{
 width: 100%;
 }
+--Roxo-claro: 
 .propaganda_titulo{
 font-family: var(--texto-titulo);verde-claro);
 }
