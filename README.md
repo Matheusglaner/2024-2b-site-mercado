@@ -1,2 +1,1 @@
-# 2024-2b-site-mercado
-um mercado bom e barato
+# 2024-2B-site-publicidade-RandonNight
